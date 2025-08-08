@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/pranama lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranama lakshan" height="30" width="40" /></a>
 <a href="https://fb.com/pranama2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranama2001" height="30" width="40" /></a>
 <a href="https://instagram.com/pranama01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranama01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pranama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranama" height="30" width="40" /></a>
+<a href="https://youtube.com/@pranama01?si=8_9fM_cQmQl25Ys7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
